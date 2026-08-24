@@ -1,0 +1,25 @@
+# Compiled Java files
+*.class
+*.jar
+
+# Packaged applications
+dist/
+dist-*/
+package-input*/
+*.zip
+
+# Private GhostWire data
+ghostwire-users.txt
+ghostwire-messages*
+ghostwire-keys/
+ghostwire-downloads/
+
+# Private keys
+*.key
+*.pem
+
+# Editor/system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
